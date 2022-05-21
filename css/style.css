@@ -194,6 +194,9 @@ h3{
 	padding: 16px 0;
 	font-weight: bold;
 }
+.productListCard a:hover{
+	color: red;
+}
 .pangination{
 	display: flex;
 	justify-content: flex-end;
@@ -209,4 +212,5 @@ h3{
 	text-align: center;
 	padding: 16px 0;
 }
+
 
