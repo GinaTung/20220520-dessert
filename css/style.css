@@ -128,10 +128,12 @@ h2{
 	line-height: 1.5;
 	padding: 15px 0;
 	text-align: center; 
+	border: 1px solid #EAF0Ed;
 }
 .aside-list li a{
 	text-decoration: none;
 	font-weight: bold;
+	display: block;
 } 
 .aside-list li:hover{
 	background:#72a87c;
@@ -213,5 +215,9 @@ h3{
 	padding: 16px 0;
 	font-size: 24px;
 }
-
-
+.pangination li a:hover{
+	color:#fff;
+}
+.page:hover{
+	background: #3f5D45;
+}
